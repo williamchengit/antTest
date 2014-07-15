@@ -1,0 +1,1 @@
+javac -sourcepath src -classpath classes;lib/ src\com\start\test\*.java -d build\classes
